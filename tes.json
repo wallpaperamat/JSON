@@ -36,6 +36,12 @@
       "name_category": "alam",
       "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
 
+    },
+	      {
+      "id": 1,
+      "name_category": "jagung",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+
     }
   ],
 
@@ -53,11 +59,17 @@
       "title": "2",
       "image": "https://images.pexels.com/photos/754194/pexels-photo-754194.jpeg"
     },
-	    {
-      "id": 2,
+    {
+      "id": 3,
       "name_category": "alam",
       "title": "3",
       "image": "https://images.pexels.com/photos/586744/pexels-photo-586744.jpeg"
+    },
+	      {
+      "id": 4,
+      "name_category": "jagung",
+      "title": "4",
+      "image": "https://cdn.kibrispdr.org/data/4k-resolution-wallpaper-4k-portrait-0.jpg"
     }
   ]
 }
