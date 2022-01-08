@@ -1,0 +1,80 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+
+  ],
+
+  "Categories": 
+  [
+    {
+      "id": 0,
+      "name_category": "red",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Socialist_red_flag.svg/1280px-Socialist_red_flag.svg.png"
+    },
+	{
+      "id": 0,
+      "name_category": "blue",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Solid_blue.svg/768px-Solid_blue.svg.png"
+    },
+	{
+      "id": 0,
+      "name_category": "green",
+      "image": "https://htmlcolorcodes.com/assets/images/colors/grass-green-color-solid-background-1920x1080.png"
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":0,
+      "name_category": "red",
+      "title":"moon ASTRONOT",
+      "image":"https://wallpapercave.com/wp/wp2419342.jpg"
+    },
+    {
+      "id": 0,
+      "name_category": "blue",
+      "title": "moon blue",
+      "image": "https://wallpapercave.com/wp/wp2419343.jpg"
+    },
+	{
+      "id": 0,
+      "name_category": "green",
+      "title": "opo",
+      "image": "https://wallpapercave.com/wp/wp2419344.jpg"
+    },
+	{
+      "id":0,
+      "name_category": "red",
+      "title":"baseng",
+      "image":"https://wallpapercave.com/wp/wp2419345.jpg"
+    },
+    {
+      "id": 0,
+      "name_category": "green",
+      "title": "ssss",
+      "image": "https://wallpapercave.com/wp/wp2419346.jpg"
+    }
+  ]
+}
