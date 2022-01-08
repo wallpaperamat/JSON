@@ -1,0 +1,63 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110x",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"ML",
+      "image":"https://play-lh.googleusercontent.com/jMs3dsfEWhu8mqCjQWOcXS4WPLiHPsY-arA61BehK-whn2XSer9sqj4NhBCVEuyb_Q=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mobile.legends"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "alam",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "alam",
+      "title":"1",
+      "image":"https://images.pexels.com/photos/235986/pexels-photo-235986.jpeg"
+    },
+    {
+      "id": 2,
+      "name_category": "alam",
+      "title": "2",
+      "image": "https://images.pexels.com/photos/754194/pexels-photo-754194.jpeg"
+    },
+	    {
+      "id": 2,
+      "name_category": "alam",
+      "title": "3",
+      "image": "https://images.pexels.com/photos/586744/pexels-photo-586744.jpeg"
+    }
+  ]
+}
