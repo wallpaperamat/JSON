@@ -1,0 +1,71 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+
+  ],
+
+  "Categories": 
+  [
+    {
+      "id": 1,
+      "name_category": "ANIMAL",
+      "image": ""
+	  
+    },
+    {
+      "id":1,
+      "name_category": "ANIMAL",
+      "title":"LION",
+      "image":"https://images.unsplash.com/photo-1641225635717-3ce363dcbd00?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDUyfEpwZzZLaWRsLUhrfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 2,
+      "name_category": "ANIMAL",
+      "title": "TIGER",
+      "image": "https://images.unsplash.com/photo-1640957507202-6e5ad7cd3365?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDgwfEpwZzZLaWRsLUhrfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+	{
+      "id": 3,
+      "name_category": "ANIMAL",
+      "title": "BIRD",
+      "image": "https://images.unsplash.com/photo-1622597163609-708571681553?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIyMnxKcGc2S2lkbC1Ia3x8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+	{
+      "id":4,
+      "name_category": "ANIMAL",
+      "title":"CAT",
+      "image":"https://images.unsplash.com/photo-1592388607385-d2e38a371661?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDMwNHxKcGc2S2lkbC1Ia3x8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 5,
+      "name_category": "ANIMAL",
+      "title": "BEE",
+      "image": "https://images.unsplash.com/photo-1634907287642-c682daafdc9b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDM4NnxKcGc2S2lkbC1Ia3x8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+	{
+      "id": 6,
+      "name_category": "ANIMAL",
+      "title": ""BIRD 2,
+      "image": "https://images.unsplash.com/photo-1635931907849-f2109d3aecf3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDQxMXxKcGc2S2lkbC1Ia3x8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+  
